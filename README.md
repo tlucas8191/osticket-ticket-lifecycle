@@ -39,21 +39,34 @@ This is the intake stage, when end-users can put in a ticket for any kind of tec
 </p>
 <br />
 
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screen Shot 2024-07-22 at 2 35 18 PM](https://github.com/user-attachments/assets/ebae9d51-00e6-4ccc-a4b5-0ec1c26bbd1c)
+![Screen Shot 2024-07-22 at 2 36 18 PM](https://github.com/user-attachments/assets/9205e1f9-b6ff-4424-8ef1-ae6dccd8e8fb)
+
 </p>
 <p>
 In the assignment and communication stage, tickets are passed on to a specific agent by the helpdesk administrator and then assigned a priority listing and SLA plan by the agent.
 </p>
 <br />
 
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screen Shot 2024-07-22 at 2 47 27 PM](https://github.com/user-attachments/assets/f8620165-2a66-4ac1-bdfa-d091783c2a01)
+![Screen Shot 2024-07-22 at 2 47 59 PM](https://github.com/user-attachments/assets/b11bdc90-fcff-4e72-a6f2-2f14049a168a)
+![Screen Shot 2024-07-22 at 2 57 42 PM](https://github.com/user-attachments/assets/8a0a9036-08f8-46d0-a173-c064923205ed)
+
 </p>
 <p>
 In this stage of the ticket lifecycle, communication is made amongst the team about the issue, and suggestions are made about how to resolve the issue.
 </p>
 <br />
+
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
