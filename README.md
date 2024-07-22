@@ -69,7 +69,10 @@ In this stage of the ticket lifecycle, communication is made amongst the team ab
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screen Shot 2024-07-22 at 3 33 15 PM](https://github.com/user-attachments/assets/53de8206-9aa6-42bf-8d6b-dd11ee4c30bb)
+![Screen Shot 2024-07-22 at 3 33 50 PM](https://github.com/user-attachments/assets/1b079a9b-6639-481e-91df-cc39180b3d62)
+
 </p>
 <p>
 In the last stage of the ticket lifecycle, the team/agent comes to resolution and action steps are taken towards the completion of the resolution.  The resolution is then communicated to the end-user that put in the ticket.
